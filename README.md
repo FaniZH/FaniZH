@@ -69,3 +69,4 @@ I'm open to software development opportunities, IT opportunities, collaborations
 
 - **GitHub:** [@FaniZH](https://github.com/FaniZH)
 - **Location:** Durban, South Africa
+- **Linkedin:** https://www.linkedin.com/in/zethembe-madlala-87a56a24a/
